@@ -5,11 +5,9 @@
 
 - [飯塚キャンパス アクセス](https://www.iizuka.kyutech.ac.jp/access)
 
-- スクールバスをご利用の場合運行スケジュールにご注意ください。夏休みなどは、減便運行となります。
+- [スクールバス](https://www.iizuka.kyutech.ac.jp/campuslife/school-bus)をご利用の場合運行スケジュールにご注意ください。夏休みなどは、減便運行となります。
 
 - 飯塚キャンパス内、総合研究棟3階N302になります。キャンパスマップ内、8番の建物です。総合研究棟のエレベータを降りてすぐのN302のドアです。
 
 ![キャンパスマップ](https://www.iizuka.kyutech.ac.jp/kit/wp-content/uploads/2022/04/CumpusMap-num-2022.jpg)
-
-
 
