@@ -11,3 +11,4 @@
 
 ![キャンパスマップ](https://www.iizuka.kyutech.ac.jp/kit/wp-content/uploads/2022/04/CumpusMap-num-2022.jpg)
 
+- お車でお越しの場合は、キャンパスマップ31番の守衛さんのところで、知的システムの田中研究室に行く旨をお伝えください。<br>駐車場はP1またがP2が便利です。
